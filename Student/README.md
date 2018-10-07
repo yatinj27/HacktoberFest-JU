@@ -120,7 +120,7 @@
 | sourabh kumawat |     |      |        |         |
 | Sundar Lal Garasiya Surawat |     |      |        |         |
 | Surbhi Arora |     |      |        |         |
-| Tanay Mehta |     |      |        |         |
+| Yatin Jain   | I    | CSE     |  <a href="https://github.com/yatinj27/"yatinj27</a>      |         |
 | Tushar Goyal |     |      |        |         |
 | Ujjawal Karn |     |      |        |         |
 | Vaishali Singh |     |      |        |         |
